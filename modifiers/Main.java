@@ -1,4 +1,4 @@
-package oop.object.modifiers;
+package oop.modifiers;
 
 public class Main {
     // modifier

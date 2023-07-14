@@ -1,4 +1,4 @@
-package oop.object.modifiers;
+package oop.modifiers;
 
 public class MainY {
     public static void main(String[] args) {

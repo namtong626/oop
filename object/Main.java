@@ -4,7 +4,6 @@ public class Main {
     // Car -> object 
     // thuộc tính (attribute) : color, height, ...
     // phương thức (method) : lái xe, phanh xe
-    int x = 5;
     // public static void main(String[] args) {
     //     Main obj = new Main();
     //     System.out.println(obj.x);    
@@ -13,6 +12,8 @@ public class Main {
     //     System.out.println(obj2.x);    
 
     // } 
+
+    int x = 5;
 
 
     static void staticMethod() {

@@ -9,7 +9,7 @@ public class Second {
 
         System.out.println(obj.x);
 
-                System.out.println(obj.x);
+        System.out.println(obj.x);
 
     }
 }
