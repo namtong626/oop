@@ -1,0 +1,13 @@
+• Viết chương trình nhập vào 1 số xác định số đó là số chẵn
+hay lẻ,âm hay dương
+
+class XacDinhSoDuong
+class XacDinhSoAm
+class XacDinhSoChan
+class XacDinhSoLe
+
+class Main{
+    
+}
+
+
